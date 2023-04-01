@@ -1,1 +1,1 @@
-# rikagakubu.official
+# rikagakubu.official website
