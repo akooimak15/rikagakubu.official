@@ -1,1 +1,0 @@
-# rikagakubu.official website
