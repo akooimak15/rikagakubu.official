@@ -12,10 +12,7 @@
 @import url("https://unpkg.com/sanitize.css/typography.css");
 @import url("https://unpkg.com/sanitize.css/system-ui.css");
 @import url("https://unpkg.com/sanitize.css/ui-monospace.css");
-@font-face {
-  font-family: "onryou"; 
-  src: url("/rikagakubu.official/rikagakuburogu-master/chogokubosogothic/chogokubosogothic_5.ttf") format("truetype");
-}
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@100&display=swap');
 
 /* 外部の CSS ここまで */
 /* 自分の CSS ここから */
@@ -35,8 +32,16 @@
  */
 
 /* 極細フォント */
-.wave {
-　font-family: 'onryou', sans-serif
+.h2 {
+　font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+/* 極細フォント */
+.h1 {
+　font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+/* 極細フォント */
+.p {
+　font-family: 'M PLUS Rounded 1c', sans-serif;
 }
 /* 水色ボックス */
 .sky-box {
