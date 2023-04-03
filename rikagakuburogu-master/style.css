@@ -34,6 +34,10 @@
  * 例えば、 #000000 や #ffffff の代わりに #333333 や #eeeeee を使うってこと。
  */
 
+/* 極細フォント */
+body {
+　font-family: 'onryou', sans-serif
+}
 /* 水色ボックス */
 .sky-box {
   width: 100%;
