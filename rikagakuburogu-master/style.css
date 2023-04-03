@@ -12,6 +12,10 @@
 @import url("https://unpkg.com/sanitize.css/typography.css");
 @import url("https://unpkg.com/sanitize.css/system-ui.css");
 @import url("https://unpkg.com/sanitize.css/ui-monospace.css");
+@font-face {
+  font-family: "onryou"; 
+  src: url("/rikagakubu.official/rikagakuburogu-master/chogokubosogothic/chogokubosogothic_5.ttf") format("truetype");
+}
 
 /* 外部の CSS ここまで */
 /* 自分の CSS ここから */
